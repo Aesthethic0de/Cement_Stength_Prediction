@@ -1,5 +1,5 @@
-# 📄✏ Sensor Fault Detection Project
-The aim of this project is to develop an automated sensor fault detection system for Scania trucks that can identify and diagnose sensor faults in real-time. The system should be able to detect faults in a wide range of sensors, including those used to monitor engine performance, fuel efficiency, and safety features. The goal is to improve the overall reliability and safety of Scania trucks by quickly identifying and addressing sensor faults, reducing the risk of accidents and downtime caused by equipment failure.
+# 📄✏ cement strength Prediction Project
+This project aimed to develop a predictive model for estimating the strength of cement based on various input parameters. Cement strength is a critical factor in construction projects as it determines the durability and load-bearing capacity of structures. Traditional methods of strength prediction rely heavily on empirical testing, which can be time-consuming and costly. Machine learning techniques offer an alternative approach to predict cement strength more efficiently and accurately.
 
 #### Dataset is taken from Kaggle and stored in mongodb
 
